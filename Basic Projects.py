@@ -1,4 +1,4 @@
-# 1. Simple Calculator
+# 1. Number Guessing Game
 '''Create a game where the program randomly selects a
 number between 1 and 100. The user has to guess the number. 
 After each guess, the program should tell the user whether 
@@ -113,4 +113,5 @@ Enter marks for Computer: 95
 Total Marks: 438.0
 Average Marks: 87.6
 Grade: B
+
 '''
